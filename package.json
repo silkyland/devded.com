@@ -26,8 +26,11 @@
   },
   "homepage": "https://github.com/silkyland/devded.com#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.11.6",
     "next": "^7.0.2",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "shineout": "^1.1.7"
   }
 }
