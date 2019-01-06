@@ -1,0 +1,33 @@
+{
+  "name": "devded.com",
+  "version": "1.0.0",
+  "description": "devded.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silkyland/devded.com.git"
+  },
+  "keywords": [
+    "devded",
+    "Thai",
+    "Developer",
+    "Community"
+  ],
+  "author": "Bundit Nuntates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silkyland/devded.com/issues"
+  },
+  "homepage": "https://github.com/silkyland/devded.com#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
